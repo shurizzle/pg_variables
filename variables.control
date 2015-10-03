@@ -1,0 +1,4 @@
+# variables extension
+comment = 'PostgreSQL library to handle global and local variables'
+default_version = '1.0'
+relocatable = true
